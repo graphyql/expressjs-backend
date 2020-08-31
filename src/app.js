@@ -7,11 +7,11 @@ app.get('/', (req, res) => {
 });
 
 app.get('/hello', (req, res) => {
-  res.json({ msg: 'Hello!' });
+  res.json({ msg: 'Hello!', status: 200 });
 });
 
 app.get('/dashboard', (req, res) => {
-  res.json({ msg: 'Hello!' });
+  res.json({ msg: 'Hello!', status: 201 });
 });
 
 app.listen(3000, () => console.log('Running on Port 3000'));
