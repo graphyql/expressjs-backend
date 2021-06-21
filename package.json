@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/graphyql/expressjs-backend.git"
+    "url": "git+https://github.com/TEXTLIFE/expressjs-backend-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/graphyql/expressjs-backend/issues"
+    "url": "https://github.com/TEXTLIFE/expressjs-backend/issues"
   },
-  "homepage": "https://github.com/graphyql/expressjs-backend#readme",
+  "homepage": "https://github.com/TEXTLIFE/expressjs-backend#readme",
   "dependencies": {
     "express": "^4.17.1"
   }

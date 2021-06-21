@@ -14,4 +14,4 @@ app.get('/api/dashboard', (req, res) => {
   res.json({ msg: 'Hello!', status: 201 });
 });
 
-app.listen(3000, () => console.log('Running on Port 3000'));
+app.listen(80, () => console.log('Running on Port 80'));
